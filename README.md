@@ -1,2 +1,2 @@
-# C-20-Algorithms
-It is a code where there are two rectangles, they change color when collided
+# p5.play-boilerplate
+Boiler plate for p5.play
